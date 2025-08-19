@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg?style=for-the-badge&logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-2.x-blue.svg?style=for-the-badge&logo=pandas)
 ![Plotly](https://img.shields.io/badge/Plotly-5.x-blue.svg?style=for-the-badge&logo=plotly)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/scysco/ONE-TelecomX_churn_analysis/blob/main/TelecomX_LATAM.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/scysco/TelecomX_churn_analysis_II/blob/main/TelecomX_LATAM.ipynb)
 
 ---
 
