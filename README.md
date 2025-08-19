@@ -3,6 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg?style=for-the-badge&logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-2.x-blue.svg?style=for-the-badge&logo=pandas)
 ![Plotly](https://img.shields.io/badge/Plotly-5.x-blue.svg?style=for-the-badge&logo=plotly)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/scysco/ONE-TelecomX_churn_analysis/blob/main/TelecomX_LATAM.ipynb)
 
 ---
 
@@ -99,11 +100,13 @@ Hay dos maneras de ejecutar este análisis:
 
 ### 2\. Ejecución en la Nube (con Google Colab)
 
-Puedes abrir y ejecutar este notebook directamente en Google Colab sin necesidad de instalar nada en tu computadora.
+Puedes abrir y ejecutar este notebook directamente en Google Colab.
 
+  * **Opción A (Recomendada)**: Haz clic en el botón "Open In Colab" que se encuentra en la parte superior de este README.
+
+  * **Opción B (Manual)**:
     1.  Ve a [Google Colab](https://colab.research.google.com/).
-    2.  Selecciona la pestaña "GitHub".
-    3.  Pega la URL de el repositorio de GitHub y presiona Enter.
-    4.  Selecciona el notebook `TelecomX_LATAM.ipynb` de la lista.
+    2.  Selecciona la pestaña "GitHub", pega la URL de tu repositorio y presiona Enter.
+    3.  Selecciona el notebook de la lista para abrirlo.
 
 <!-- end list -->
